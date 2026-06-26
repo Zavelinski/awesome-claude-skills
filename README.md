@@ -266,7 +266,7 @@ Skills that ship with Claude Code or are maintained by Anthropic.
 - [csp-generator](https://github.com/anthropics/skills) - Generates Content Security Policy headers based on application analysis with proper nonce and hash configurations.
 - [dependency-vulnerability](https://github.com/anthropics/skills) - Scans dependencies for known CVEs with severity ratings, exploit details, and upgrade recommendations.
 - [auth-hardening](https://github.com/anthropics/skills) - Reviews and hardens authentication and authorization implementations with best practices for session management and input validation.
-- [skill-security-scan](https://github.com/Zavelinski/skill-security-scan) - Statically vets a third-party SKILL.md, its hooks, and the settings.json it registers before install, returning an ALLOW/REVIEW/BLOCK verdict.
+- [skill-security-scan](https://github.com/Zavelinski/claude-code-skill-security-scan) - Statically vets a third-party SKILL.md, its hooks, and the settings.json it registers before install, returning an ALLOW/REVIEW/BLOCK verdict.
 
 ## Business & Productivity
 
