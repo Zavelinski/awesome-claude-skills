@@ -160,6 +160,7 @@ Skills that ship with Claude Code or are maintained by Anthropic.
 
 ### Testing
 
+- [adversarial-verify](https://github.com/Zavelinski/adversarial-verify) - Proves a change works by trying to break it: writes and runs falsification tests, then returns a binary PASS/FAIL/INCONCLUSIVE verdict.
 - [tdd-workflow](https://github.com/anthropics/skills) - Follows strict test-driven development: writes failing tests first, implements minimum code to pass, then refactors. Enforces red-green-refactor.
 - [test-generator](https://github.com/anthropics/skills) - Generates comprehensive test suites covering unit, integration, and edge cases. Supports Jest, Vitest, Pytest, and Go testing.
 - [e2e-playwright](https://github.com/anthropics/skills) - Creates end-to-end tests using Playwright with page objects, fixtures, visual regression, and network interception.
