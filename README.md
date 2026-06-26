@@ -332,6 +332,7 @@ Skills that ship with Claude Code or are maintained by Anthropic.
 - [environment-setup](https://github.com/anthropics/skills) - Sets up development environments with proper tooling, configuration files, and dependency installation.
 - [dotfiles-manager](https://github.com/anthropics/skills) - Manages dotfiles and development environment configuration with backup and sync capabilities.
 - [migration-assistant](https://github.com/anthropics/skills) - Plans and executes code migrations between frameworks, languages, or major version upgrades with incremental verification.
+- [scheduled-sop-runner](https://github.com/Zavelinski/scheduled-sop-runner) - Turns a repeatable SOP into a self-checking scheduled routine that verifies each run and notifies you only when something fails.
 
 ## Language & Framework Specific
 
